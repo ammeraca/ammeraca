@@ -13,39 +13,28 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,arch,linux,latex)](https://github.com/ammeraca/)
 
-### ☀️ Design
+## ☀️ Design
 
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai,xd)](https://github.com/ammeraca/)
 
 [![My Skills](https://skillicons.dev/icons?i=blender)](https://github.com/ammeraca/)
 
-
-
-## Reach me
+## ContactReach me
 
 **amme.rachlin@gmail.com**
 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mama_clic)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ammerchn)
 
+--
 
+**"Whatever you do in this life, it's not legendary, unless your friends are there to see it"** (S09E17)
 
 <!--
-**ammeraca/ammeraca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🌱 I’m currently learning **Blender, nextjs, nuxtjs, sass, materialize, GSAP**
+- 🌱 I’m currently learning Blender, nextjs, nuxtjs, sass, materialize, GSAP
 
 [![My Skills](https://skillicons.dev/icons?i=postgres,java,ruby,rails,tailwind)](https://github.com/ammeraca/)
 
-- 🔭 I’m currently working on my portfolio website, some homeworks i got myself
-
-- 👯 I’m looking to collaborate on creative projects, design and development,
+- 👯 I’m looking to collaborate on creative projects, design and development of all kind
 - 💬 Ask me about react, design, photography
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ammeraca&label=Profile%20views&color=0e75b6&style=flat" alt="ammeraca" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ammeraca" alt="ammeraca" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 -->
