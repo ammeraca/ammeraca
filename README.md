@@ -19,12 +19,12 @@
 
 [![My Skills](https://skillicons.dev/icons?i=blender)](https://github.com/ammeraca/)
 
-## ContactReach me
+## Contact
 
 **amme.rachlin@gmail.com**
 
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mama_clic)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/ammerchn)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mama_clic)
 
 --
 
